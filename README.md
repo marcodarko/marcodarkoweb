@@ -1,2 +1,2 @@
 # marcodarkoweb
-my personal website
+www.marcodarko.com
